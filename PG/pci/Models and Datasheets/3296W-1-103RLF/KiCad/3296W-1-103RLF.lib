@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 3296W-1-103RLF
+#/627321/938636/2.49/3/4/Resistor
+DEF 3296W-1-103RLF R 0 30 Y Y 1 F N
+F0 "R" 350 1000 50 H V L CNN
+F1 "3296W-1-103RLF" 350 900 50 H V L CNN
+F2 "3296W-1" 350 800 50 H I L CNN
+F3 "https://www.bourns.com/pdfs/3296.pdf" 350 700 50 H I L CNN
+F4 "Res Cermet Trimmer 10K Ohm 10% 0.5W(1/2W) 25(Elec)Turn 2.19mm (9.53 X 4.83 X 11.55mm) Pin Thru-Hole T/R" 350 600 50 H I L CNN "Description"
+F5 "" 350 500 50 H I L CNN "Height"
+F6 "Bourns" 350 400 50 H I L CNN "Manufacturer_Name"
+F7 "3296W-1-103RLF" 350 300 50 H I L CNN "Manufacturer_Part_Number"
+F8 "652-3296W-1-103RLF" 350 200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Bourns/3296W-1-103RLF?qs=2bTIwLLrckTSiNyA4dRdUg%3D%3D" 350 100 50 H I L CNN "Mouser Price/Stock"
+F10 "3296W-1-103RLF" 350 0 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/3296w-1-103rlf/bourns?region=nac" 350 -100 50 H I L CNN "Arrow Price/Stock"
+F12 "" 350 -200 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 350 -300 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 1 200 0 200 U 50 50 0 0 P
+X ~ 2 100 0 200 U 50 50 0 0 P
+X ~ 3 0 0 200 U 50 50 0 0 P
+P 5 0 1 6 -100 800 300 800 300 200 -100 200 -100 800 N
+ENDDRAW
+ENDDEF
+#
+#End Library

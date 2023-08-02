@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1825910-6
+#/13001260/938636/2.49/4/2/Switch
+DEF 1825910-6 S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "1825910-6" 1050 200 50 H V L CNN
+F2 "18259106" 1050 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1825910-6" 1050 0 50 H I L CNN
+F4 "FSM4JH=6MM TACT SWITCH, HIGH TEMP" 1050 -100 50 H I L CNN "Description"
+F5 "5.3" 1050 -200 50 H I L CNN "Height"
+F6 "TE Connectivity" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "1825910-6" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "N/A" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1825910-6?qs=A6cQTCBcXncisYDS1KbpGA%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "1825910-6" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/1825910-6/te-connectivity?region=europe" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 1050 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 1050 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X COM_1 1 0 0 200 R 50 50 0 0 P
+X COM_2 2 1200 0 200 L 50 50 0 0 P
+X NO_1 3 0 -100 200 R 50 50 0 0 P
+X NO_2 4 1200 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

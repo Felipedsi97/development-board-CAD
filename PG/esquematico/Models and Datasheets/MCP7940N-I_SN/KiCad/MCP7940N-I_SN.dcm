@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP7940N-I_SN
+D Real Time Clock I2C GP RTCC 64B SRAM
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA3/278324.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ATS20A
+#/990441/977105/2.49/2/3/Crystal or Oscillator
+DEF ATS20A Y 0 30 Y Y 1 F N
+F0 "Y" 350 250 50 H V L CNN
+F1 "ATS20A" 350 150 50 H V L CNN
+F2 "ATS20A" 350 50 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/dk/DKDS-12/236344.pdf" 350 -50 50 H I L CNN
+F4 "Crystals 20MHz 20pF 30ppm -20C 70C" 350 -150 50 H I L CNN "Description"
+F5 "3.68" 350 -250 50 H I L CNN "Height"
+F6 "774-ATS20A" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/CTS-Electronic-Components/ATS20A/?qs=tjlMjqRIEYSf%252BN4zUqLZuw%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "CTS" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "ATS20A" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 2 0 0 100 R 50 50 0 0 P
+X ~  400 0 100 L 50 50 0 0 P
+P 2 0 1 6 120 100 120 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 5 0 1 6 160 140 160 -140 240 -140 240 140 160 140 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 120 0 100 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LPC1114FN28_102,12
+D 32-bit ARM Cortex-M0 microcontroller; up to 64 kB flash and 8 kB SRAM, DIP-28
+K
+F http://www.nxp.com/docs/en/data-sheet/LPC1102_1104.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AB38T-32.768KHZ
+D Quarze 32.768KHz
+K
+F http://www.abracon.com/Resonators/AB38T.pdf
+$ENDCMP
+#
+#End Doc Library

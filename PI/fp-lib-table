@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "PJ-002A")(type "KiCad")(uri "C:/Users/Felipe/Desktop/ECO SEMESTRE 9/PBLE01/PJ-002A")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/Felipe/Desktop/ECO SEMESTRE 9/PBLE01/LIB_LTST-C150GKT/LTST-C150GKT/KiCad")(options "")(descr ""))
+  (lib (name "KiCAD")(type "KiCad")(uri "C:/Users/Felipe/Desktop/ECO SEMESTRE 9/PBLE01/ul_1825910-6/KiCAD/2022-09-19_23-59-50/footprints.pretty")(options "")(descr ""))
+  (lib (name "lpc")(type "KiCad")(uri "C:/Users/Felipe/Desktop/ECO SEMESTRE 9/PBLE01/LIB_LPC1114FN28_102,12 (1)/LPC1114FN28_102,12/KiCad")(options "")(descr ""))
+  (lib (name "ATS")(type "KiCad")(uri "C:/Users/Felipe/Desktop/ECO SEMESTRE 9/PBLE01/ATS08A-E")(options "")(descr ""))
+)

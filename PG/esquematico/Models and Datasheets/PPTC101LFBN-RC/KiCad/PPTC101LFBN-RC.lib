@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PPTC101LFBN-RC
+#/663865/938636/2.49/10/3/Connector
+DEF PPTC101LFBN-RC J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "PPTC101LFBN-RC" 650 200 50 H V L CNN
+F2 "RHDR10W80P0X254_1X10_2590X254X850P" 650 100 50 H I L CNN
+F3 "http://www.sullinscorp.com/drawings/78_P(N)PxCxxxLFBN-RC,_10492-H.pdf" 650 0 50 H I L CNN
+F4 "Header female, 2.54mm CC ST" 650 -100 50 H I L CNN "Description"
+F5 "8.5" 650 -200 50 H I L CNN "Height"
+F6 "Sullins" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "PPTC101LFBN-RC" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 650 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 650 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 0 -500 200 R 50 50 0 0 P
+X 7 7 0 -600 200 R 50 50 0 0 P
+X 8 8 0 -700 200 R 50 50 0 0 P
+X 9 9 0 -800 200 R 50 50 0 0 P
+X 10 10 0 -900 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -1000 200 -1000 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

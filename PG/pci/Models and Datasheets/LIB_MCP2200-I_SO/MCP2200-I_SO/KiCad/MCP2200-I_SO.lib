@@ -1,0 +1,45 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MCP2200-I_SO
+#/159048/938636/2.49/20/3/Integrated Circuit
+DEF MCP2200-I_SO IC 0 30 Y Y 1 F N
+F0 "IC" 1550 300 50 H V L CNN
+F1 "MCP2200-I_SO" 1550 200 50 H V L CNN
+F2 "SOIC127P1030X265-20N" 1550 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA2/214544.pdf" 1550 0 50 H I L CNN
+F4 "USB 2.0 to serial UART converter w/ GPIO" 1550 -100 50 H I L CNN "Description"
+F5 "2.65" 1550 -200 50 H I L CNN "Height"
+F6 "Microchip" 1550 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MCP2200-I/SO" 1550 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "579-MCP2200-I/SO" 1550 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP2200-I-SO?qs=kI7nsUnms46fN8L9VZlJCA%3D%3D" 1550 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MCP2200-I/SO" 1550 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mcp2200-iso/microchip-technology?region=nac" 1550 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 1550 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 1550 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X VDD 1 0 0 200 R 50 50 0 0 P
+X OSC1 2 0 -100 200 R 50 50 0 0 P
+X OSC2 3 0 -200 200 R 50 50 0 0 P
+X ~RST 4 0 -300 200 R 50 50 0 0 P
+X GP7/TXLED 5 0 -400 200 R 50 50 0 0 P
+X GP6/RXLED 6 0 -500 200 R 50 50 0 0 P
+X GP5 7 0 -600 200 R 50 50 0 0 P
+X GP4 8 0 -700 200 R 50 50 0 0 P
+X GP3 9 0 -800 200 R 50 50 0 0 P
+X TX 10 0 -900 200 R 50 50 0 0 P
+X VSS 20 1700 0 200 L 50 50 0 0 P
+X D+ 19 1700 -100 200 L 50 50 0 0 P
+X D- 18 1700 -200 200 L 50 50 0 0 P
+X VUSB 17 1700 -300 200 L 50 50 0 0 P
+X GP0/SSPND 16 1700 -400 200 L 50 50 0 0 P
+X GP1/USBCFG 15 1700 -500 200 L 50 50 0 0 P
+X GP2 14 1700 -600 200 L 50 50 0 0 P
+X ~CTS 13 1700 -700 200 L 50 50 0 0 P
+X RX 12 1700 -800 200 L 50 50 0 0 P
+X ~RTS 11 1700 -900 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1500 100 1500 -1000 200 -1000 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

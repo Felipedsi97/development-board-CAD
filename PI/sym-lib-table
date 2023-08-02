@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LTST-C150GKT")(type "Legacy")(uri "C:/Users/Felipe/Desktop/ECO SEMESTRE 9/PBLE01/LIB_LTST-C150GKT/LTST-C150GKT/KiCad/LTST-C150GKT.lib")(options "")(descr ""))
+  (lib (name "LPC1114FN28_102_12")(type "Legacy")(uri "C:/Users/Felipe/Desktop/ECO SEMESTRE 9/PBLE01/LIB_LPC1114FN28_102,12 (1)/LPC1114FN28_102,12/KiCad/LPC1114FN28_102_12.lib")(options "")(descr ""))
+)

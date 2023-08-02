@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM358DRG3
+D Dual standard operational amplifier
+K
+F http://www.ti.com/lit/gpn/lm358
+$ENDCMP
+#
+#End Doc Library

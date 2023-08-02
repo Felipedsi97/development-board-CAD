@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model AB38T-32.768KHZ
+#/266317/938636/2.49/2/3/Crystal or Oscillator
+DEF AB38T-32.768KHZ Y 0 30 Y Y 1 F N
+F0 "Y" 350 250 50 H V L CNN
+F1 "AB38T-32.768KHZ" 350 150 50 H V L CNN
+F2 "AB38T32768KHZ" 350 50 50 H I L CNN
+F3 "http://www.abracon.com/Resonators/AB38T.pdf" 350 -50 50 H I L CNN
+F4 "Quarze 32.768KHz" 350 -150 50 H I L CNN "Description"
+F5 "8.3" 350 -250 50 H I L CNN "Height"
+F6 "ABRACON" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "AB38T-32.768KHZ" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "815-AB38T-32.768KHZ" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/ABRACON/AB38T-32.768KHZ?qs=m%252BUhWDcpCfbdp9ovMbeW3g%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "AB38T-32.768KHZ" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ab38t-32.768khz/abracon?region=europe" 350 -850 50 H I L CNN "Arrow Price/Stock"
+F12 "" 350 -950 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 350 -1050 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 2 0 0 100 R 50 50 0 0 P
+X ~  400 0 100 L 50 50 0 0 P
+P 2 0 1 6 120 100 120 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 5 0 1 6 160 140 160 -140 240 -140 240 140 160 140 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 120 0 100 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

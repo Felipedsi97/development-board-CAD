@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2200-I_SO
+D USB 2.0 to serial UART converter w/ GPIO
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA2/214544.pdf
+$ENDCMP
+#
+#End Doc Library

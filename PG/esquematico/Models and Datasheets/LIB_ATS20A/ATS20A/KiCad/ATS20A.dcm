@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATS20A
+D Crystals 20MHz 20pF 30ppm -20C 70C
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS-12/236344.pdf
+$ENDCMP
+#
+#End Doc Library
